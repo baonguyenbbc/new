@@ -1,0 +1,7 @@
+test
+test 1
+<<<<<<< HEAD
+test dev1 1
+=======
+tttt
+>>>>>>> dev2
